@@ -138,3 +138,9 @@ terraform.tfstate
 
 # Elastic Beanstalk Files
 .elasticbeanstalk
+
+# Distribution Packages
+lambda_dist_pkg
+
+# Zip files...
+*.zip
